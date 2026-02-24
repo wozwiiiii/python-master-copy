@@ -1,7 +1,19 @@
 下面将分为两部分，一部分是我个人的理解，另外一部分是AI给出的解析
+delete.py
+
+question1(elegible for remedial,top marks).py
+
+read.py
+
+search record in binary file.py
+
+Update a binary file2.py
+
+update.py
 
 
 下面是AI解释的代码
+delete.py部分：
 1. **导入库**：
    import logging
    import os
@@ -55,3 +67,18 @@
 
  总结
 这段代码的主要功能是从指定的二进制文件中读取和修改学生记录。具体来说，它首先会尝试打开并打印文件中的所有记录，然后会从用户那里获取要删除的学生学号，并删除对应的记录。程序中使用了`logging`库来记录程序执行过程中的信息和警告。
+
+
+question1(elegible for remedial,top marks).py部分：
+
+
+read.py部分：
+
+
+search record in binary file.py部分：
+
+
+Update a binary file2.py部分：
+
+
+update.py部分：
